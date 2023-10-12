@@ -1,0 +1,19 @@
+.adress {
+    background-color: gray; 
+    border-radius: 5%;
+
+    position: absolute;
+    top: 60px;
+    left: 1100px;
+
+}
+
+.curriculum-box{
+    background-color: blueviolet;
+    position: relative;
+    left: 80%;
+
+
+    width: fit-content;
+    height: auto;
+}
